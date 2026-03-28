@@ -23,9 +23,3 @@ This is a menu-driven Java console application that performs:
    javac Geometry_Calculater.java
 2. Run:
    java Geometry_Calculater
-
-## 📷 Output Example
-Console-based interactive program
-
-## 👨‍💻 Author
-Lucky Chaurasiya
